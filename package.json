@@ -1,0 +1,16 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "telegram Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Artur Oganesyan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "telebot": "^1.2.6"
+  }
+}
